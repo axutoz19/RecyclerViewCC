@@ -1,0 +1,8 @@
+com/example/recyclerview/WordListAdapter.java
+ com.example.recyclerview.WordListAdapter
+ com.example.recyclerview.WordListAdapter$WordViewHolder
+com/example/recyclerview/MainActivity.java
+ com.example.recyclerview.MainActivity
+ com.example.recyclerview.MainActivity$1
+com/example/recyclerview/BuildConfig.java
+ com.example.recyclerview.BuildConfig
